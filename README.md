@@ -3,7 +3,7 @@
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on a Banking App using js<a href="#" rel="nofollow"> </a>.</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning more about java script , databases and C .</li>
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.instagram.com/hamzaouee/" rel="nofollow">Instagram - @walid_habbach</a> , <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">Linkedin - oualid habbach</a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.instagram.com/walid_habbach/" rel="nofollow">Instagram - @walid_habbach</a> , <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">Linkedin - oualid habbach</a></li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: He/His</li>
 </ul>
 <a href="https://www.linkedin.com/in/oualid-habbach-b95392203/" rel="nofollow"><img src="https://img.shields.io/badge/oualid-habbach-b95392203?style=for-the-badge&logo=linkedin&logoColor=white"></a>
