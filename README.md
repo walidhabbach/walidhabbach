@@ -10,7 +10,7 @@
 <a href="https://github.com/walidhabbach"><img src="https://img.shields.io/badge/walid-habbach?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-<video src="https://giphy.com/embed/MdA16VIoXKKxNE8Stk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></video><p><a href="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk">via GIPHY</a></p>
+<video src="https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk" ></video>
 
 
 <h3 align="left">Languages and Tools:</h3>
