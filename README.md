@@ -1,6 +1,6 @@
 <h1 align="left">Hi , I'm Walid 👋</h1>
 <ul>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="#" rel="nofollow">a Js project </a>.</li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on a Banking App using js<a href="#" rel="nofollow"> </a>.</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning more about Vuejs Framework,databases and C .</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.instagram.com/hamzaouee/" rel="nofollow">Instagram - @walid_habbach</a> , <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">Linkedin - oualid habbach</a></li>
@@ -34,7 +34,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidhabbach" alt="walidhabbach" /></a> </p>
 
-- 🔭 I’m currently working on **BANK APP**
+- 🔭 I’m currently working on **a bBANK APP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
