@@ -4,7 +4,7 @@
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning more about java script , databases and C .</li>
 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.instagram.com/walid_habbach/" rel="nofollow">Instagram - @walid_habbach</a> , <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">Linkedin - oualid habbach</a></li>
-<li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns: He/His</li>
+<li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
 </ul>
 <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow"><img src="https://img.shields.io/badge/oualid-habbach-0385641bb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/walidhabbach"><img src="https://img.shields.io/badge/walid-habbach?style=for-the-badge&logo=github&logoColor=white"></a>
