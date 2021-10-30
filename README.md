@@ -7,10 +7,7 @@
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
 </ul>
 <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow"><img src="https://img.shields.io/badge/oualid-habbach-0385641bb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/walidhabbach"><img src="https://img.shields.io/badge/walid-habbach?style=for-the-badge&logo=github&logoColor=white"></a>
-
-
-
+<a href="https://github.com/walidhabbach">
 
 
 <h3 align="left">Languages and Tools:</h3>
