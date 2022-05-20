@@ -8,7 +8,7 @@
   How to reach me: 
   <a href="https://www.instagram.com/walid_habbach/" rel="nofollow">Instagram - @walid_habbach</a> , 
   <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">Linkedin - oualid habbach</a></li>
-<li>
+</li>
   <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
 </ul>
 <a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">
@@ -42,6 +42,7 @@
   <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidhabbach&theme=tokyonight&show_icons=true" alt="walid_habbach" /></p>
   <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidhabbach&langs_count=8" alt="walid_habbach" /></p>
   
+
 <!--<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidhabbach&layout=compact" alt="walid_habbach" /></p> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidhabbach&show_icons=true&locale=en&layout=compact" alt="walid_habbach" /></p> -->
 
