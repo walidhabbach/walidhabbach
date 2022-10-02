@@ -12,7 +12,7 @@
 </li>
   <g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">
 </ul>
-<a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="nofollow">
+<a href="https://www.linkedin.com/in/oualid-habbach-0385641bb/" rel="follow">
   <img src="https://img.shields.io/badge/oualid-habbach-0385641bb?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 <a href="https://github.com/walidhabbach">
@@ -26,7 +26,12 @@
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#"  width="40" height="40"/> </a> 
-  
+   
+ <a href="https://www.techtarget.com/searchdatamanagement/definition/SQL-Server" target="_blank"> 
+    <img src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png" alt="SQL"  width="40" height="40"/> </a> 
+
+ 
+ 
   <a href="https://learn.unity.com" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/79254928/169626239-1f5c9371-6bc9-4fd4-949a-2bd28fd1a29c.png" alt="Unity"  width="40" height="40"/> </a> 
 
@@ -42,7 +47,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
+ 
   </a> 
    
   
