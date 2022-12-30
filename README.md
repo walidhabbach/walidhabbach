@@ -56,9 +56,9 @@
    
 </p>
 
-  <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidhabbach&show_icons=true&theme=tokyonight&show_icons=true" alt="walid_habbach" /></p>
+  <p><br> <img align="center" src="https://github-readme-stats.vercel.app/api?username=walidhabbach&show_icons=true&theme=tokyonight&show_icons=true" alt="Walid-Habbach" /></p>
   
- <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidhabbach&show_icons=true&locale=en&layout=compact" alt="walid_habbach" /></p> 
+ <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidhabbach&show_icons=true&locale=en&layout=compact" alt="Walid-Habbach" /></p> 
  
 
   </article>
