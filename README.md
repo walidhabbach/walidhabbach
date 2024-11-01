@@ -6,8 +6,7 @@
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1vUB1xBjDpCLLwKqbQHkgS9Mfyfk_9jo7/view?usp=sharing)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidhabbach" alt="walidhabbach" /></a> </p>
-
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
